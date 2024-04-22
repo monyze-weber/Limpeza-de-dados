@@ -18,4 +18,6 @@ Etapas da limpeza de dados:
 
 6. Remover Colunas Desnecessárias.
 
+Link para projeto completo no Medium:
+
 https://medium.com/@monyze/limpeza-de-dados-com-sql-nashville-housing-ec00214dbca5
